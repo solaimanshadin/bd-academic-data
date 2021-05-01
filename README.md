@@ -7,4 +7,4 @@ Includes :
 4. [English medium School of Bangladesh](https://github.com/solaimanshadin/bd-academic-data/blob/main/englishMediumSchools.json "English medium Schools JSON")
 5. [Education levels of Bangladesh](https://github.com/solaimanshadin/bd-academic-data/blob/main/eduLevels.json "Education levels of Bangladesh JSON")
 6. [Educational degree/exams of Bangladesh](https://github.com/solaimanshadin/bd-academic-data/blob/main/examTitles.json "Educational degree/exams of Bangladesh JSON")
-7. [Academic Mazors/groups](https://github.com/solaimanshadin/bd-academic-data/blob/main/academicMazors.json "Academic Mazors/groups")
+7. [Academic Majors/groups](https://github.com/solaimanshadin/bd-academic-data/blob/main/academicMajors.json "Academic Majors/groups")
