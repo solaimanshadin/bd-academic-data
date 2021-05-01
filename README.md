@@ -1,4 +1,4 @@
-# Bangladesh Academic data  - JSON
+# BD Academic data  - JSON
 
 Includes :
 1. [All University List of Bangladesh](https://github.com/solaimanshadin/bd-academic-data/blob/main/universities.json "( University List of Bangladesh JSON)")
