@@ -4,11 +4,11 @@
  * created_at - 10/06/2021
  */
 
-const rowUniversities  = require('./row/rowAllUniversities.js');
-const rowCollages  = require('./row/rowCollages');
-const rowMazors  = require('./row/rowAcademicMazors');
-const rowBanglaSchoolList  = require('./row/rowBanglaMediumSchoolList');
-const rowEnglishSchoolList  = require('./row/rowEnglishMediumSchools');
+const rowUniversities  = require('./raw/rawAllUniversities.js');
+const rowCollages  = require('./raw/rawCollages');
+const rowMazors  = require('./raw/rawAcademicMajors');
+const rowBanglaSchoolList  = require('./raw/rawBanglaMediumSchoolList');
+const rowEnglishSchoolList  = require('./raw/rawEnglishMediumSchools');
 
 // Extract university
 const universities = rowUniversities.map(data => data.university ).filter(data=> data);
