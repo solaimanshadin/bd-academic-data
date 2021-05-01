@@ -1,7 +1,7 @@
 /**
  * Data Extractor.
  * author - Solaiman Shadin
- * created_at - 010/6/2021
+ * created_at - 10/06/2021
  */
 
 const rowUniversities  = require('./row/rowAllUniversities.js');
